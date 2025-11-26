@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2h1Byiy8KUOE6C5abZiVsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" CVScreenId="64eafeef-8659-4caf-b5f7-e3123c7355d3" CvElementArea="500, 413, 302, 37" CvType="InputBox" DesignTimeRectangle="501, 414, 322, 35" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl name='ctl00$ContentPlaceHolder1$txtChassisNo' tag='INPUT' type='text' class='ValueLabel' placeholder='Please Enter Chassis Number' aaname='Please Enter Chassis Number' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e263047e-3d73-4cea-a460-9853cf20d334" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="64eafeef-8659-4caf-b5f7-e3123c7355d3" CvTextArea="495, 391, 124, 14" CvTextArgument="Chassis Number *" CvType="Text" DesignTimeRectangle="496, 388, 132, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Chassis Number' tag='SPAN' type='' class='CaptionLabel required-field' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Chassis Number' /&gt;" Guid="14bcb97b-9d62-4621-b2ec-8edfed9f0239" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="015bb7bb3923e29e429bdca7830dff6f.png" xmlns="">0CFuOSfEyLUuXUtjo1H7EIw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Ministry of Interior MOI - Vehicle Acci",
+  "Type": "Screen",
+  "Id": "Ty4-Rfj_JU-HEpcF_PPOQQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/Ty4-Rfj_JU-HEpcF_PPOQQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/OwA6XQ9FpE2YB2vWcTHyNA",
+  "Created": "2025-11-26T07:48:53.3157628Z",
+  "Updated": "2025-11-26T07:48:53.3157628Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
