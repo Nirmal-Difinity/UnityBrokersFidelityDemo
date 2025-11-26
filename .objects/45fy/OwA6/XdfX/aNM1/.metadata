@@ -1,0 +1,13 @@
+﻿{
+  "Name": "English",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "aNM1cAB0F0a93Kn47kAVzQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/aNM1cAB0F0a93Kn47kAVzQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/XdfXqI21FUeNvhkzavj__g",
+  "Created": "2025-11-26T07:23:39.3583166Z",
+  "Updated": "2025-11-26T07:23:39.3583166Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

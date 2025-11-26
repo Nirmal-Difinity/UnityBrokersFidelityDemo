@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uC83mPQsaUOYxSMZnFWUpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" CVScreenId="8a4a76ac-8beb-4844-b23a-8272218ad071" CvElementArea="490, 594, 88, 32" CvTextArea="508, 602, 53, 14" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="491, 595, 87, 31" DesignTimeScaleFactor="1" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='ctl00$ContentPlaceHolder1$btnSubmit' tag='INPUT' type='submit' /&gt;" Guid="f52f69f4-b9f5-4f29-a8c1-cae07675e295" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="2380302b580abd3a34997529a117deab.png" xmlns="">0tyFKiqPhHU6awO6X3T1m1w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

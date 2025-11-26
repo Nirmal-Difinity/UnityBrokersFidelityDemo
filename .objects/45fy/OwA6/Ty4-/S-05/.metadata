@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Causer",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "S-05FlDSbUuZvuXVNmwEag",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/S-05FlDSbUuZvuXVNmwEag",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/Ty4-Rfj_JU-HEpcF_PPOQQ",
+  "Created": "2025-11-26T07:48:53.4908481Z",
+  "Updated": "2025-11-26T07:48:53.4908481Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

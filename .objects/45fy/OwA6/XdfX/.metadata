@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: وزارة الداخلية - الخدمات الإلكترونية - ",
+  "Type": "Screen",
+  "Id": "XdfXqI21FUeNvhkzavj__g",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/XdfXqI21FUeNvhkzavj__g",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/OwA6XQ9FpE2YB2vWcTHyNA",
+  "Created": "2025-11-26T07:23:39.117644Z",
+  "Updated": "2025-11-26T07:23:39.117644Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

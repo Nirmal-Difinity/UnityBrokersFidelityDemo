@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="81n5L2-KaUKyfpbAXuc0KA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/TrafficServices/Vehicles/Accidents.aspx" CVScreenId="dcd8572b-e644-45b5-b5f0-0b4c6ede2bf3" CvElementArea="1048, 642, 133, 98" CvTextArea="1059, 701, 109, 14" CvTextArgument="Additional Info." CvType="Button" DesignTimeRectangle="1055, 654, 119, 65" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='btnInvolved' tag='SPAN' /&gt;" Guid="f59aeaa1-a465-48d2-ad63-bbcc68483247" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Vehicle Accidents' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcd8572b-e644-45b5-b5f0-0b4c6ede2bf3" CvElementArea="1048, 642, 133, 98" CvTextArea="1059, 701, 109, 14" CvTextArgument="Additional Info." CvType="Button" DesignTimeRectangle="1049, 643, 131, 97" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='btnInvolved' tag='A' type='' class='tabButton theme-hover-background-color theme-hover-border-color' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Additional Info.' /&gt;" Guid="67e6d43b-400f-4f71-bfcf-051c1139bf88" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd8d52fc62d5d65474ea6709bbf1ba9c.png" xmlns="">0rfmMVE1wvkijJJVpvqTuBw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

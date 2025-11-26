@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VPtSXv7e-kG9T7rKAZJL_Q" Reference="rktTz4rm00OGwYACKxnSiA/_qBTansqn0Cb84-YwR2ZDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/TrafficServices/Vehicles/Accidents.aspx" CVScreenId="4e75c885-662f-4cce-a82f-17633e82b750" DesignTimeRectangle="921, 804, 99, 17" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='dvInvolved' tag='TABLE' /&gt;&lt;webctrl aaname='Frontal collision' tableRow='2' tag='SPAN' /&gt;" Guid="da291bce-5a13-40de-850f-c0cf660a3193" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Vehicle Accidents' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4e75c885-662f-4cce-a82f-17633e82b750" CvTextArea="923, 768, 91, 12" CvTextArgument="Polnt of Crash" CvType="Text" DesignTimeRectangle="909, 760, 265, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='dvInvolved' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl aaname='Point of Crash' type='' tag='TH' class='gridViewInnerTitles' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Point of Crash' /&gt;" Guid="23fc2ea2-c402-411a-b6f7-8639e0eeb2b0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="1eaa57c501d03bd598018bd7d843c0ab.png" xmlns="">0ouehdiS_50Ok7i3MxCkBrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
