@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3YMh3HEzR0KOUgufyvKxMQ" Reference="rktTz4rm00OGwYACKxnSiA/kjzwGiezYUOxNOpr_FXUOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae" CVScreenId="d44fc210-ef48-4152-8b1f-29a0bc6afed4" CvElementArea="591, 439, 369, 34" CvType="InputBox" DesignTimeRectangle="592, 440, 368, 31" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='txtLoginId' tag='INPUT' type='text' class='form-control' placeholder='Login ID' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8504cce4-1575-4b87-a4c8-6838d1658133" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d44fc210-ef48-4152-8b1f-29a0bc6afed4" CvTextArea="591, 414, 52, 16" CvTextArgument="Login ID" CvType="Text" DesignTimeRectangle="592, 411, 51, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='UserLoginModel_LoginId_Lbl' tag='LABEL' type='' class='control-label' aaname='Login ID' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login ID' /&gt;" Guid="75545cf7-0556-48be-81a2-23c77593da69" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bfea59c99039b0dc07308554d22feae4.png" xmlns="">0Kterpxrgc02yiBkjCzyR1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "###.## AED + VAT Select",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "sujZTigz10atVNurGYaV4A",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/sujZTigz10atVNurGYaV4A",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-11-25T12:09:36.0154754Z",
+  "Updated": "2025-11-25T12:09:36.0154754Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

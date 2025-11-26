@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TCF No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "IMq0CPTXgkSlulGSGZPSSA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/IMq0CPTXgkSlulGSGZPSSA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.8329395Z",
+  "Updated": "2025-11-25T12:44:10.8329395Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

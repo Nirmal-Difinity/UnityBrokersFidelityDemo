@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Client Type",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "QVZO_cq2MUK2AS6ZP8i2qQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/QVZO_cq2MUK2AS6ZP8i2qQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:13:18.194482Z",
+  "Updated": "2025-11-25T07:13:18.194482Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

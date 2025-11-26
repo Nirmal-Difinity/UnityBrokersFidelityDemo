@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Brand New - Yes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rxpqljDCTUipqXjirQ8Tzg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/rxpqljDCTUipqXjirQ8Tzg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:13:18.8033511Z",
+  "Updated": "2025-11-25T11:41:17.8295258Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

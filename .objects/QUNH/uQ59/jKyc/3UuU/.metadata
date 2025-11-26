@@ -1,0 +1,13 @@
+﻿{
+  "Name": "UL menu",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Id": "3UuU2wbC4kWNjalcjhbxHg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/3UuU2wbC4kWNjalcjhbxHg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/jKyciv5oTk2QoMficqelnA",
+  "Created": "2025-11-25T06:56:59.9214841Z",
+  "Updated": "2025-11-25T06:56:59.9214841Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tu-0T-fRRUGLJ51pYDY8dA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="87ab1545-e793-4663-8792-a0a3b6d3e507" CvElementArea="480, 672, 220, 42" CvType="InputBox" DesignTimeRectangle="482, 673, 216, 40" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='DocUpload_10004_1000' tag='INPUT' type='text' class='form-control' placeholder='Browse..' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a078e244-622b-41ad-a1a3-5dfc422c71e0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="87ab1545-e793-4663-8792-a0a3b6d3e507" CvTextArea="482, 652, 91, 17" CvTextArgument="Mulkiya Back" CvType="Text" DesignTimeRectangle="483, 650, 90, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Mulkiya Back' parentid='divWizard-p-0' tag='LABEL' type='' class='control-label ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Mulkiya Back' /&gt;" Guid="abbf80da-7ace-423a-ab96-49406d072d9d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee18988b7bf10d1f949a8611f44397b8.png" xmlns="">0thwNvMw4TUGv4nrVAmS5bg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

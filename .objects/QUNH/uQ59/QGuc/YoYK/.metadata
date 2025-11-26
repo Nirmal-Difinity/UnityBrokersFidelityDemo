@@ -1,0 +1,13 @@
+﻿{
+  "Name": "No: of Years without Cl…",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "YoYKC2xyskOCTDvAmV-tUw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/YoYKC2xyskOCTDvAmV-tUw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.1972733Z",
+  "Updated": "2025-11-25T07:26:59.1972733Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

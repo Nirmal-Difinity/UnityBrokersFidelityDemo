@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Select Plan",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rcpY02gUzkeYSU1D_kzssA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/rcpY02gUzkeYSU1D_kzssA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-11-25T12:09:35.8262843Z",
+  "Updated": "2025-11-25T12:09:35.8262843Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

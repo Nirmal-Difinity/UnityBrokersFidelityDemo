@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Dashboard: IIRIS ECRM",
+  "Type": "Screen",
+  "Id": "jKyciv5oTk2QoMficqelnA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/jKyciv5oTk2QoMficqelnA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-25T05:36:21.4873677Z",
+  "Updated": "2025-11-25T11:45:23.4252331Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mulkiya Back",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "tYla72muUkSjcQRHSBKMTw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/tYla72muUkSjcQRHSBKMTw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T11:45:23.8781362Z",
+  "Updated": "2025-11-25T11:45:23.8781362Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

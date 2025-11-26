@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Yo0HY7rV9kqG4vx522x2iA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="0632a671-4924-4919-a27f-c552c2c15738" CvElementArea="820, 636, 82, 44" CvTextArea="842, 649, 38, 16" CvTextArgument="OYes" CvType="Button" DesignTimeRectangle="822, 637, 80, 42" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Yes' idx='5' parentid='divWizard-p-0' tag='LABEL' /&gt;" Guid="932bb207-1c70-40be-8e63-3341a436183f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0632a671-4924-4919-a27f-c552c2c15738" CvTextArea="809, 615, 263, 14" CvTextArgument="Is your vehicle affected by rain/flood ?" CvType="Text" DesignTimeRectangle="810, 613, 262, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehFloodedYn_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Is your vehicle affected by rain/flood ?' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Is your vehicle affected by rain/flood ?' /&gt;" Guid="cd1dfae4-64ec-4724-9be6-1d1c4f7f1d4f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="30eda2b7cf0e8e5019953cf72a79a1cb.png" xmlns="">0ML3ue7IMkEaeapGo1ax6Zw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

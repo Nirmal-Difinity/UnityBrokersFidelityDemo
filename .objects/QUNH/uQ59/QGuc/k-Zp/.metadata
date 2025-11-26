@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Valid insurance policy - Yes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "k-Zpk4eqYEeuK79XIket4g",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/k-Zpk4eqYEeuK79XIket4g",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.5574487Z",
+  "Updated": "2025-11-25T12:09:35.7075898Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

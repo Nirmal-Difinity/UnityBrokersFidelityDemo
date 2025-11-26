@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uIHXw7qrSUG196TUVbT87g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="0632a671-4924-4919-a27f-c552c2c15738" CvElementArea="246, 656, 76, 44" CvTextArea="266, 669, 32, 16" CvTextArgument="ONo" CvType="Button" DesignTimeRectangle="246, 657, 74, 42" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='No' idx='4' parentid='divWizard-p-0' tag='LABEL' /&gt;" Guid="c4180c39-fc16-4a0f-a095-b0617fc85ae6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="155, 613, 298, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolPrevInsValidYn_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Do you have a valid insurance policy currently?' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Do you have a valid insurance policy currently?' /&gt;" Guid="d1718a2e-2322-4070-a557-c671b32fc992" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="beaa443363893eea6419deb9bc8901ac.png" xmlns="">05JEwvn4GEEaGXJnk8Aj3vA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

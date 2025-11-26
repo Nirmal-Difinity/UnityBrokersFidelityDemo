@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1WGb10bNeU2cl2lhy_BKUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="9526db8d-5f34-4e99-b9ef-dbb2ef1629f7" CvElementArea="316, 395, 139, 44" CvType="InputBox" DesignTimeRectangle="319, 397, 134, 40" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='VehAge' tag='INPUT' type='text' class='form-control tariffParam' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="aeb34b91-4021-47d0-97d8-e8c71155c0ac" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9526db8d-5f34-4e99-b9ef-dbb2ef1629f7" CvTextArea="317, 376, 81, 17" CvTextArgument="Vehicle Age" CvType="Text" DesignTimeRectangle="319, 374, 80, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehAge_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Vehicle Age' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Vehicle Age' /&gt;" Guid="6a05c4a3-bdd5-4b9a-bd22-f1d6cf602b2b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="55252477561d10bf625cb800886e29d8.png" xmlns="">0DY86lPgnjUmMf2P6yYV1cQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

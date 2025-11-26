@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lU_kvTavi0KtCWYVp_HJiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="51a3f9a1-a42b-4e5c-b548-5d615872a7a9" CvElementArea="994, 425, 118, 44" CvTextArea="1014, 440, 74, 13" CvTextArgument="Select Plan" CvType="Button" DesignTimeRectangle="994, 426, 114, 42" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='divProduct_1001' tag='A' /&gt;" Guid="bc1c2c0d-d372-4263-a181-eb8738afe52e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="51a3f9a1-a42b-4e5c-b548-5d615872a7a9" CvElementArea="857, 430, 114, 33" CvTextArea="868, 439, 88, 14" CvTextArgument="###.## + VAT" CvType="Button" DesignTimeRectangle="858, 432, 111, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='divProduct_1001' tag='SPAN' type='' class='value hfProdBaseCvrPrem' aaname='                                                                             ###.## + VAT                                                                         ' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='###.## + VAT' /&gt;" Guid="55a6b331-7b5e-4b38-8d2f-5563e29ea029" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="a4d9fab9975071064a0b71b7b298a706.png" xmlns="">0eFhUu4cNjUmG8AFopAUSqw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Valid insurance policy - No",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rU1Lx6igh0C1sIgaCphWYw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/rU1Lx6igh0C1sIgaCphWYw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.6289542Z",
+  "Updated": "2025-11-25T07:26:59.6289542Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "License Expiry Date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VITjZM7uTE6SSsOS0OIVwQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/VITjZM7uTE6SSsOS0OIVwQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.4303414Z",
+  "Updated": "2025-11-25T12:44:10.4303414Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

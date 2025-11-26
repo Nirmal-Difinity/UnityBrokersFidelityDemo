@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Male",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7eNqQt9IaUeGrGCzLX8GYw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/7eNqQt9IaUeGrGCzLX8GYw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:13:18.6849405Z",
+  "Updated": "2025-11-25T07:13:18.6849405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

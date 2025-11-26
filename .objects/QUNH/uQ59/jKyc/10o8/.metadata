@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Motor",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "10o8qdDE3USWQbW5zZi0Dg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/10o8qdDE3USWQbW5zZi0Dg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/jKyciv5oTk2QoMficqelnA",
+  "Created": "2025-11-25T05:36:21.6002108Z",
+  "Updated": "2025-11-25T05:36:21.6002108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aGX3VJEbbE22R52ck8a4qQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/Duk8UW2lWjhFuwlAfmJw4g/9cx5lAC5wIWATq6xh5Lr6w/YnmnBrhH7pvDZY_5ccHL8kfWt1buTzESym48skQeORw" CVScreenId="0fbe4cd2-cf53-47df-9c65-0e81590806d8" CvTextArea="63, 351, 103, 14" CvTextArgument="New Quotation" CvType="Text" DesignTimeRectangle="23, 342, 237, 35" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='New Quotation ' parentid='menu' tag='A' /&gt;" Guid="c9e9b8fb-75f3-46e9-82f3-17ac533e89d3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0fbe4cd2-cf53-47df-9c65-0e81590806d8" CvTextArea="72, 306, 40, 14" CvTextArgument="Motor" CvType="Text" DesignTimeRectangle="22, 292, 239, 44" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='has-arrow' parentid='menu' tag='A' type='' aaname='                                                                                                                                                        Motor                                 ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Motor' /&gt;" Guid="2a653761-36ef-4268-920b-f30888c12aad" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="227c3b4aea4926932691136f1d5450bb.png" xmlns="">0gTPfRWCjZkGCaM_Dvyu5VQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

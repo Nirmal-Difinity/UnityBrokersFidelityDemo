@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Previous Policy Type",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "T1s9mjmdGk6PhjDyuPLK3g",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/T1s9mjmdGk6PhjDyuPLK3g",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.7071713Z",
+  "Updated": "2025-11-25T07:26:59.7071713Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

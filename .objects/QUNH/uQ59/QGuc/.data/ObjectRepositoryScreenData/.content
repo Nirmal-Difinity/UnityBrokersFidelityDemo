@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="uDif8HpQlEWeSn1bA-ZB_w" Reference="rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1552, 840" BrowserType="Edge" ContentHash="R-xi03OtFkGXPGlwAK1EEQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHbSURBVFhHzZbBbcMwDEVz7DUr5NIBskJWyApZIStkha7gFXruzSt0ha7gfqqywcjf9pfiAvzAAwSaEj8km/JhGIbQ0GAkaDASNBgJGowEDUZiF329vV/BJxgcd3DMKYtipjwvCyYezlTJNzjlVCpmyvOSUHzN3IiZXNxJZsrTLBS9OBNbdHnaTMyUp0koeAS2M8zMEtc8/UnMlKdJKNYVxRV+wOx9ZKY81UIR+zqZAYXZUTNTniqhwAnYTrDiKve8XBIz5akSFu+LYq1MR81MeWRhUaWlWM6tiDH6vCw15ZGEBZWWMhXFWPmI0lEzU55NYSG1pUzHhrHNUd7VMzPl2RQWkXfDCzG7n1muJ90yzNjIqjBZaSmLtwSefRS5jAczNrIoTFRayuo9a89yDpvruTJzxqIwSWkp9PryQo7ygdlG0KOmQrLUUnL6piy3mMvoJINIrGopqmxOsQbjtmoQCS0txRqzfUxbKN0g/VCsGaxqKRifi2d70FODeKBcUVNLwbjln1Dl/mQQgeqWgnHLP2EN6ZYZiykv8OUvO+XbO8Vy9iQdtRWraikY226znP/gYQXZA4//SzFze/0TSkxfS1RoMBI0GAkajAQNRoIGI0GDkaDBSNBgHIbDL0V5opIzUzHZAAAAAElFTkSuQmCC" Reference="rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA" Selector="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" Url="https://insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="70352e0989a8625a2df18cd7c656f656.jpg" xmlns="">0mHKm960C8UOFDsXPHQ5yeQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

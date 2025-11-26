@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mulkiya Front",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Mzq0pknUqESjh9KsUYEvpg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/Mzq0pknUqESjh9KsUYEvpg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T11:45:23.7600137Z",
+  "Updated": "2025-11-25T11:45:23.7600137Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

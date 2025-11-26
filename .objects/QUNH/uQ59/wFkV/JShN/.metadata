@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Road Side Assistance - …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JShNos7FVUiizQQ1Cw5UyA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/JShNos7FVUiizQQ1Cw5UyA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-11-25T12:09:35.8889934Z",
+  "Updated": "2025-11-25T12:09:35.8889934Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

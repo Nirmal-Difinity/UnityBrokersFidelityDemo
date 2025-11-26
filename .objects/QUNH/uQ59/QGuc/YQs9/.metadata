@@ -1,0 +1,13 @@
+﻿{
+  "Name": "License Issue Date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "YQs9fQcprE6adK9tFHrcsg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/YQs9fQcprE6adK9tFHrcsg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:58.9703296Z",
+  "Updated": "2025-11-25T07:26:58.9703296Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

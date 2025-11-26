@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Sign In (Next)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "E3ddDUT-B0uq9lC0YmbNQg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/E3ddDUT-B0uq9lC0YmbNQg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/12ijYKSk5k-ib74g_w4-UQ",
+  "Created": "2025-11-25T05:07:19.2985588Z",
+  "Updated": "2025-11-25T05:07:55.699266Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

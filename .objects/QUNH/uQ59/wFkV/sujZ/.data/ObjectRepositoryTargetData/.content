@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ppdTHnI2AEGXhGo9u8hW2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="ab3e0187-62c6-481b-a4d0-721e2ea1d58b" CvElementArea="384, 692, 148, 32" CvTextArea="287, 696, 228, 19" CvTextArgument="SELECT ###.## AED + VAT" CvType="Button" DesignTimeRectangle="218, 684, 360, 51" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='main_buy' parentid='divProduct_1001' tag='A' /&gt;" Guid="cb95af7f-0116-4841-ac72-a289bf99cb8f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="15f56dc169d1960e6e97c82c546781e0.png" xmlns="">0yKmCpKHUZ0q29EHKMS12IQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

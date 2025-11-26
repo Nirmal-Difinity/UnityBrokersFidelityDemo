@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Married - Yes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vLo-LoJKfk-DWTLnBIK41g",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/vLo-LoJKfk-DWTLnBIK41g",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.5906865Z",
+  "Updated": "2025-11-25T12:44:10.5906865Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

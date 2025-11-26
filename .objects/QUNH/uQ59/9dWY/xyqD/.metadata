@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AML Type",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "xyqDfTZOEkG5PKLCKv6cvQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/xyqDfTZOEkG5PKLCKv6cvQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.2527168Z",
+  "Updated": "2025-11-25T12:44:10.2527168Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

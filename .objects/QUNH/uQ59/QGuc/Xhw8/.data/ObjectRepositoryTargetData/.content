@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1kbcvGZruku66DDrigY5Yw" Reference="rktTz4rm00OGwYACKxnSiA/Xhw8_ipsQEu6UTk_YggiOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="dcaf3895-949a-4f64-9b00-517ddf16a1c9" CvElementArea="900, 412, 77, 44" CvTextArea="921, 425, 32, 16" CvTextArgument="ONo" CvType="Button" DesignTimeRectangle="901, 413, 74, 42" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='No' parentid='divWizard-p-0' tag='LABEL' /&gt;" Guid="f991e101-faef-46ee-ac6b-2850a817005a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcaf3895-949a-4f64-9b00-517ddf16a1c9" CvTextArea="809, 391, 78, 14" CvTextArgument="Brand New" CvType="Text" DesignTimeRectangle="810, 389, 77, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehBrandNewYn_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Brand New' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Brand New' /&gt;" Guid="d35912da-2aaf-4ae4-bca3-428b99193a11" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d82b7d8aba55d17f21c34f54dcf20b13.png" xmlns="">0g0DhI_DUlkKmaXLXIk2Nmw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

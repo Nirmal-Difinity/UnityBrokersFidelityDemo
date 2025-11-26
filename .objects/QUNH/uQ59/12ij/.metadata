@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Login: IIRIS ECRM",
+  "Type": "Screen",
+  "Id": "12ijYKSk5k-ib74g_w4-UQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/12ijYKSk5k-ib74g_w4-UQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-25T05:07:18.8972369Z",
+  "Updated": "2025-11-25T05:07:18.8972369Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

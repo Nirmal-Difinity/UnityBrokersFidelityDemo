@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Value of Vehicle",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "jmUzcqqXbUarH1ljp6PFNg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/jmUzcqqXbUarH1ljp6PFNg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:58.6918035Z",
+  "Updated": "2025-11-25T07:26:58.6918035Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

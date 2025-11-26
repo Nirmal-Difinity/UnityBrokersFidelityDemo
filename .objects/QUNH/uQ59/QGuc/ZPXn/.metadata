@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vehicle affected - No",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ZPXno6anOUq-rwXYzfE_uA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/ZPXno6anOUq-rwXYzfE_uA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.8625393Z",
+  "Updated": "2025-11-25T07:26:59.8625393Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

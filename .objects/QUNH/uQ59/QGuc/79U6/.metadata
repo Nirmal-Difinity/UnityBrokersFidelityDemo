@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vehicle Age",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "79U6pOwbXkCSqhB7Ns7t-Q",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/79U6pOwbXkCSqhB7Ns7t-Q",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:58.6189595Z",
+  "Updated": "2025-11-25T07:26:58.6189595Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SuMV_6Y2I0unCtcRrutL8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="c6073eb3-ea80-4844-ad30-ea199d8ae0af" CvElementArea="246, 611, 75, 44" CvTextArea="266, 624, 32, 16" CvTextArgument="ONo" CvType="Button" DesignTimeRectangle="246, 612, 74, 43" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='No' idx='2' parentid='divWizard-p-2' tag='LABEL' /&gt;" Guid="11cf551d-c3bc-4081-b9a1-7cfd81f49af5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c6073eb3-ea80-4844-ad30-ea199d8ae0af" CvTextArea="154, 591, 52, 14" CvTextArgument="Married" CvType="Text" DesignTimeRectangle="155, 589, 52, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrMaritalSts_Lbl' tag='LABEL' type='' class='control-label' aaname='Married' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Married' /&gt;" Guid="22c00cb3-42b5-49e8-acb0-c933fb545f43" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="38a2cec086008304e71f1ac86009c6b9.png" xmlns="">0TXI3cWw5MUCjzvp5dJR-Wg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

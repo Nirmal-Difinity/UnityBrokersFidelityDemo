@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Agency Type - Yes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qVe9o6xQA06I-9P9TovaHA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/qVe9o6xQA06I-9P9TovaHA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:59.267252Z",
+  "Updated": "2025-11-25T07:26:59.267252Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

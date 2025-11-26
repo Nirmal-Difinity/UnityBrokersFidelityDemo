@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="olFH8hppQk-t23dKzAdVZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/Duk8UW2lWjhFuwlAfmJw4g/9cx5lAC5wIWATq6xh5Lr6w/YnmnBrhH7pvDZY_5ccHL8kfWt1buTzESym48skQeORw" DesignTimeRectangle="12, 182, 79, 219" DesignTimeScaleFactor="1" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='menu' tag='UL' /&gt;" Guid="078431be-01e2-4e99-afd3-bd9a4e550e9e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="5c32d35133a9cbe19050dbc0deecd23d.png" xmlns="">0Ys3_lCEnUEWjOGsu78RfcQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

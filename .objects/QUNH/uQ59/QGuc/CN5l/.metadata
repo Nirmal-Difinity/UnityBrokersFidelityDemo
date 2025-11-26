@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Date of First Registrat…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "CN5ljC1xTkuA2Gcu578_GA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/CN5ljC1xTkuA2Gcu578_GA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:26:58.5521213Z",
+  "Updated": "2025-11-25T07:26:58.5521213Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

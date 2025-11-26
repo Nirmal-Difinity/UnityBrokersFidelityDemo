@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eik7xE0t_E6BYjPHeH1D5Q" Reference="rktTz4rm00OGwYACKxnSiA/YCGKim2SYEW19TjyYOFnbA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="eabcc13e-b152-4c2a-a98a-2aa51209b61a" ContentHash="EQTtw7GlXEikadJFyHYk7Q" CvElementArea="1039, 729, 105, 51" CvTextArea="1073, 744, 35, 13" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="1041, 730, 100, 49" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Next' aria-role='menuitem' tag='A' /&gt;" Guid="ae88a277-ecc8-46b0-8075-d4024f2b6aff" Reference="rktTz4rm00OGwYACKxnSiA/YCGKim2SYEW19TjyYOFnbA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="cdd874b6184c2f00071d13fb24f075fd.png" xmlns="">0tXUUmGIfQ0qL4cGaHr5cEw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

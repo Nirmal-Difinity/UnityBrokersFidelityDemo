@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mobile Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "RyIAY5fBpEqhKB2vd4cgpA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/RyIAY5fBpEqhKB2vd4cgpA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:13:18.3168914Z",
+  "Updated": "2025-11-25T07:13:18.3168914Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

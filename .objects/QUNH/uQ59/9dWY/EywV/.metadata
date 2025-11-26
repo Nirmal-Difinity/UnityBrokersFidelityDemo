@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Married - No",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "EywVKthmXkSZFEeboHkwFA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/EywVKthmXkSZFEeboHkwFA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.6468189Z",
+  "Updated": "2025-11-25T12:44:10.6468189Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

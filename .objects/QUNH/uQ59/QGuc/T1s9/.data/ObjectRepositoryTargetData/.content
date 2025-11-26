@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HKfPl9memUe0aC4e7IBnow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="0632a671-4924-4919-a27f-c552c2c15738" CvElementArea="482, 636, 299, 42" CvType="InputBox" DesignTimeRectangle="484, 644, 295, 29" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='textbox' idx='21' tag='SPAN' /&gt;" Guid="78477097-e7de-44f2-a027-ab557b5d51fd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0632a671-4924-4919-a27f-c552c2c15738" CvTextArea="482, 615, 145, 17" CvTextArgument="Previous Policy Type" CvType="Text" DesignTimeRectangle="483, 613, 145, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehPrevInsType_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Previous Policy Type' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Previous Policy Type' /&gt;" Guid="01de7d26-3913-4473-a1c7-7cd9ecf49c7a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="72c7a8148f0bafe1dc0065e669f0339c.png" xmlns="">0Xm762LfslEKxPUeNSxK1pw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

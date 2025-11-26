@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Female",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9yqbS5_8Tki3MjKWsiqLxA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/9yqbS5_8Tki3MjKWsiqLxA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T07:13:18.6246558Z",
+  "Updated": "2025-11-25T07:13:18.6246558Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

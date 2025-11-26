@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Next - basic",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "YCGKim2SYEW19TjyYOFnbA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/YCGKim2SYEW19TjyYOFnbA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/QGucynaCXkuPJxzkLF5zjA",
+  "Created": "2025-11-25T11:45:24.4459078Z",
+  "Updated": "2025-11-25T12:09:35.5575429Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

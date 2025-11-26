@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DbsqzbbvcUa70TOqJpdCZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="d46afbf5-e9f0-47bc-a325-08258b17cb51" CvElementArea="154, 656, 299, 43" CvType="InputBox" DesignTimeRectangle="156, 665, 296, 30" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='textbox' idx='6' tag='SPAN' /&gt;" Guid="cd934390-f9ab-4a74-bb5a-2f88a627bbb7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d46afbf5-e9f0-47bc-a325-08258b17cb51" CvTextArea="154, 637, 73, 17" CvTextArgument="Nationality" CvType="Text" DesignTimeRectangle="155, 635, 72, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrNation_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Nationality' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Nationality' /&gt;" Guid="786ac258-777b-4987-8ef3-16132ffeb803" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="22e240fc9daa4b7d9b947cfcd18e391f.png" xmlns="">0pZr52zZP8k2E3kuXIpV3Hw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

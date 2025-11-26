@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HXU6Uuz0qEa_O4gbeDHW6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="9d9dcd12-7096-4195-92e5-c3439470741f" CvElementArea="494, 651, 82, 45" CvTextArea="515, 664, 38, 16" CvTextArgument="OYes" CvType="Button" DesignTimeRectangle="495, 652, 80, 43" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Yes' idx='2' parentid='divWizard-p-0' tag='LABEL' /&gt;" Guid="9b563821-a4df-45ca-8ada-1dabb93fc560" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9d9dcd12-7096-4195-92e5-c3439470741f" CvTextArea="481, 631, 90, 17" CvTextArgument="Agency Type" CvType="Text" DesignTimeRectangle="483, 629, 88, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Agency Type' parentid='divWizard-p-0' tag='LABEL' type='' class='control-label mandatory' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Agency Type' /&gt;" Guid="29af068b-42af-4124-8f20-9368959994b6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="1c8e48af2afbae2046a9b7248e80924d.png" xmlns="">0TNvDG4WOVUGT-FeKLhK6zQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

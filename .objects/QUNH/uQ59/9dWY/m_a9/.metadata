@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vehicle Color",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "m_a9vRO5o0aGNhxhsHKx3w",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/m_a9vRO5o0aGNhxhsHKx3w",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "Created": "2025-11-25T12:44:10.7112906Z",
+  "Updated": "2025-11-25T12:44:10.7112906Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "New Quote: Plan Details",
+  "Type": "Screen",
+  "Id": "wFkVUZtkm02hbA-90itpUQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-25T12:09:35.7702086Z",
+  "Updated": "2025-11-25T12:44:10.0774336Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

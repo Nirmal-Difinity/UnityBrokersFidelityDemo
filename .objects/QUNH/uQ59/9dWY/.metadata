@@ -1,0 +1,12 @@
+﻿{
+  "Name": "New Quote: Additional Details",
+  "Type": "Screen",
+  "Id": "9dWYlHL7d0mbHGSwYgNqww",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/9dWYlHL7d0mbHGSwYgNqww",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-25T12:44:10.202552Z",
+  "Updated": "2025-11-25T12:44:10.202552Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
