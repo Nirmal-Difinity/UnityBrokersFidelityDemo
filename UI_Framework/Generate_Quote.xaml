@@ -75,31 +75,31 @@
       <AssemblyReference>UiPath.Platform</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Sequence2" sap:VirtualizedContainerService.HintSize="1281,1703" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence2" sap:VirtualizedContainerService.HintSize="1281,1408" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Plan Details Page No 2" sap:VirtualizedContainerService.HintSize="556,1680" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="Plan Details Page No 2" sap:VirtualizedContainerService.HintSize="486,1385" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Edge: IIRIS ECRM" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="522,1597" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" IsDisplayNameAuto="True" ScopeGuid="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Edge: IIRIS ECRM" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="452,1302" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" IsDisplayNameAuto="True" ScopeGuid="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520,1403" sap2010:WorkflowViewState.IdRef="Sequence_3">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,1108" sap2010:WorkflowViewState.IdRef="Sequence_3">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Select Plan'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486,198" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
+              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Select Plan'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,198" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
                 <uix:NClick.Target>
                   <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="51a3f9a1-a42b-4e5c-b548-5d615872a7a9" ContentHash="lU_kvTavi0KtCWYVp_HJiQ" CvElementArea="994, 425, 118, 44" CvTextArea="1014, 440, 74, 13" CvTextArgument="Select Plan" CvType="Button" DesignTimeRectangle="994, 426, 114, 42" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='divProduct_1001' tag='A' /&gt;" Guid="bc1c2c0d-d372-4263-a181-eb8738afe52e" InformativeScreenshot="a4d9fab9975071064a0b71b7b298a706.png" Reference="rktTz4rm00OGwYACKxnSiA/rcpY02gUzkeYSU1D_kzssA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
                     <uix:TargetAnchorable.Anchors>
@@ -113,7 +113,7 @@
                   </uix:TargetAnchorable>
                 </uix:NClick.Target>
               </uix:NClick>
-              <uix:NCheck Action="[UiPath.UIAutomationNext.Enums.NCheckType.Uncheck]" DisplayName="Check/Uncheck 'Road Side Assistance - …'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486,199" sap2010:WorkflowViewState.IdRef="NCheck_1" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
+              <uix:NCheck Action="[UiPath.UIAutomationNext.Enums.NCheckType.Uncheck]" DisplayName="Check/Uncheck 'Road Side Assistance - …'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,199" sap2010:WorkflowViewState.IdRef="NCheck_1" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
                 <uix:NCheck.Target>
                   <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="ab3e0187-62c6-481b-a4d0-721e2ea1d58b" ContentHash="RzWS8vuaK0WfVONUiBelIw" CvTextArea="264, 562, 181, 13" CvTextArgument="Road Side Assistance - Gold" CvType="Text" DesignTimeRectangle="235, 557, 211, 24" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Road Side Assistance - Gold' parentid='divProduct_1001' tag='LABEL' /&gt;" Guid="3cedb26d-4d9f-4d63-92c6-ac8393ea4bc5" InformativeScreenshot="52a53a5d94a4a0a1cd1fd91dd1e7344b.png" Reference="rktTz4rm00OGwYACKxnSiA/JShNos7FVUiizQQ1Cw5UyA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
                     <uix:TargetAnchorable.Anchors>
@@ -127,7 +127,7 @@
                   </uix:TargetAnchorable>
                 </uix:NCheck.Target>
               </uix:NCheck>
-              <uix:NCheck Action="Check" DisplayName="Check/Uncheck 'Road Side Assistance - … (1)'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486,199" sap2010:WorkflowViewState.IdRef="NCheck_2" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
+              <uix:NCheck Action="Check" DisplayName="Check/Uncheck 'Road Side Assistance - … (1)'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,199" sap2010:WorkflowViewState.IdRef="NCheck_2" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
                 <uix:NCheck.Target>
                   <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="ab3e0187-62c6-481b-a4d0-721e2ea1d58b" ContentHash="Xrm0qZ6hxUCq51aHb0K_4w" CvTextArea="264, 606, 241, 13" CvTextArgument="Road Side Assistance - Gold Premium" CvType="Text" DesignTimeRectangle="235, 601, 271, 24" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Road Side Assistance - Gold Premium' parentid='divProduct_1001' tag='LABEL' /&gt;" Guid="d865ea2b-24b9-4df4-95ec-d236959dd1f7" InformativeScreenshot="ea9646c3324b1586c6dddf4af1791d82.png" Reference="rktTz4rm00OGwYACKxnSiA/oTo4i0wgq06klRmyh9Y8dQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
                     <uix:TargetAnchorable.Anchors>
@@ -141,7 +141,7 @@
                   </uix:TargetAnchorable>
                 </uix:NCheck.Target>
               </uix:NCheck>
-              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click '###.## AED + VAT Select'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486,194" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
+              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click '###.## AED + VAT Select'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,198" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
                 <uix:NClick.Target>
                   <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="ab3e0187-62c6-481b-a4d0-721e2ea1d58b" ContentHash="ppdTHnI2AEGXhGo9u8hW2A" CvElementArea="384, 692, 148, 32" CvTextArea="287, 696, 228, 19" CvTextArgument="SELECT ###.## AED + VAT" CvType="Button" DesignTimeRectangle="218, 684, 360, 51" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='main_buy' parentid='divProduct_1001' tag='A' /&gt;" Guid="cb95af7f-0116-4841-ac72-a289bf99cb8f" InformativeScreenshot="15f56dc169d1960e6e97c82c546781e0.png" Reference="rktTz4rm00OGwYACKxnSiA/sujZTigz10atVNurGYaV4A" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
                     <uix:TargetAnchorable.PointOffset>
@@ -150,9 +150,9 @@
                   </uix:TargetAnchorable>
                 </uix:NClick.Target>
               </uix:NClick>
-              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Submit Quotation'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486,198" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
+              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Submit Quotation'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,198" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="eb19ae52-2cba-48a8-a52e-a2c659cc8cd8" Version="V5">
                 <uix:NClick.Target>
-                  <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="d45f75d8-2913-4365-9cc7-0926a6ef05e4" ContentHash="_QkqkNTYw0qw7O-c5uUxSw" CvElementArea="1556, 530, 104, 42" CvType="Button" DesignTimeRectangle="1583, 538, 51, 31" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='submitquotbtn' tag='SPAN' /&gt;" Guid="07fec1a2-62ca-4044-a721-fb20393d1188" InformativeScreenshot="a83a8d5946c58b8ef7763cc8c13c219e.png" Reference="rktTz4rm00OGwYACKxnSiA/63DOHZl4NUC4gBL217W4cw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+                  <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="d45f75d8-2913-4365-9cc7-0926a6ef05e4" ContentHash="_QkqkNTYw0qw7O-c5uUxSw" CvElementArea="1556, 530, 104, 42" CvType="Button" DesignTimeRectangle="1583, 538, 51, 31" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='submitquotbtn' tag='SPAN' /&gt;" Guid="07fec1a2-62ca-4044-a721-fb20393d1188" InformativeScreenshot="a83a8d5946c58b8ef7763cc8c13c219e.png" Reference="rktTz4rm00OGwYACKxnSiA/63DOHZl4NUC4gBL217W4cw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Interactive]">
                     <uix:TargetAnchorable.Anchors>
                       <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                         <uix:Target CVScreenId="d45f75d8-2913-4365-9cc7-0926a6ef05e4" CvTextArea="1504, 497, 357, 13" CvTextArgument="Generate the quote and compare our pricing details." CvType="Text" DesignTimeRectangle="1505, 494, 385, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='riskSummary' tag='P' type='' class='' aaname='Generate the quote and compare our pricing details. ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Generate the quote and compare our pricing details.' /&gt;" Guid="5a6cc5fa-7bc5-4596-a803-1d3592d40b28" SearchSteps="FuzzySelector, CV" />
@@ -164,7 +164,7 @@
                   </uix:TargetAnchorable>
                 </uix:NClick.Target>
               </uix:NClick>
-              <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="486,351" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+              <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="416,52" sap2010:WorkflowViewState.IdRef="CommentOut_1">
                 <ui:CommentOut.Body>
                   <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,245" sap2010:WorkflowViewState.IdRef="Sequence_4">
                     <sap:WorkflowViewStateService.ViewState>
@@ -179,6 +179,12 @@
                     </uix:NClick>
                   </Sequence>
                 </ui:CommentOut.Body>
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
               </ui:CommentOut>
             </Sequence>
           </ActivityAction>

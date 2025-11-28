@@ -1,0 +1,13 @@
+﻿{
+  "Name": "File name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "8_j1dliF_UyT2iuqadC5zg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/8_j1dliF_UyT2iuqadC5zg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/CtCpxdXvBEuUVSMi8j0sgg",
+  "Created": "2025-11-28T09:35:05.2147839Z",
+  "Updated": "2025-11-28T09:35:05.2147839Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
