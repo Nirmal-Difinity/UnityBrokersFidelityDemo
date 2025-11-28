@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="KemaSUKarEO698WdmWeVeA" Reference="rktTz4rm00OGwYACKxnSiA/xyqDfTZOEkG5PKLCKv6cvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="v2oDUdawNka-Zgc_llbXyg" Reference="rktTz4rm00OGwYACKxnSiA/xyqDfTZOEkG5PKLCKv6cvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="2bc74f13-d601-4b6f-9805-58cb15e911f5" CvElementArea="335, 537, 349, 42" CvType="InputBox" DesignTimeRectangle="336, 545, 347, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='-- Select --' tag='SPAN' type='' class='select2-selection__placeholder' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='-- Select --' /&gt;" Guid="3b7c60f8-0776-4063-b0c3-af8c6429c4f3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="2bc74f13-d601-4b6f-9805-58cb15e911f5" CvTextArea="332, 517, 69, 17" CvTextArgument="AML Type" CvType="Text" DesignTimeRectangle="333, 517, 68, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrAmlClass_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='AML Type' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='AML Type' /&gt;" Guid="c738232b-6668-4e86-90f3-b9013b46f039" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="dab661890fd1f92b80baa85ca5fa1f79.png" xmlns="">019bO5j9CC0ap1IsakXPAEg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="c5cb0a90ac0b76c3b251c8260663ea4a.png" xmlns="">0vrR8_LdWa0aMltPbVBJUyQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

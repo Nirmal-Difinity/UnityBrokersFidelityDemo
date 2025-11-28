@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="Ptjhseozak2QV8WmQHu49A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="A-BOi4TXmkShlAwU_LRX2A" Reference="rktTz4rm00OGwYACKxnSiA/SYrc4OapNUq-wpNL89G6IA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="597ad246-8b8a-451f-9847-14e476751de3" CvElementArea="808, 739, 299, 42" CvType="InputBox" DesignTimeRectangle="810, 740, 298, 40" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-labelledby='select2-Occupation-container' aria-role='combobox' tag='SPAN' /&gt;" Guid="1c0d9431-6836-4a89-a453-afefe3563a0e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="6eed1726-0b46-460c-b5d7-9d94a29df875" CvElementArea="1093, 409, 328, 39" CvType="InputBox" DesignTimeRectangle="1093, 417, 347, 29" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Salaried (Private Sector)' aria-role='textbox' parentid='divWizard-p-2' tag='SPAN' /&gt;" Guid="5acb4f25-ae91-4684-948e-5fe474c22ab9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="597ad246-8b8a-451f-9847-14e476751de3" CvTextArea="808, 718, 77, 14" CvTextArgument="Profession" CvType="Text" DesignTimeRectangle="810, 716, 75, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrOccup_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Profession' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Profession' /&gt;" Guid="66a793cd-4bf3-4d4c-b95f-f87fd1915c76" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="6eed1726-0b46-460c-b5d7-9d94a29df875" CvTextArea="1091, 388, 76, 14" CvTextArgument="Profession" CvType="Text" DesignTimeRectangle="1092, 386, 75, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrOccup_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Profession' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Profession' /&gt;" Guid="ca92ba10-0b1e-45f0-a6da-2f81715718cd" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <TargetAnchorable.PointOffset>
-        <PointOffset />
-      </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="19a64eb4a846494c37c662c2184a2076.png" xmlns="">0yKOUF-vm2kabN2AgQasqnw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="8977aadf47e8cc8e3ba60e0f3a7c38c5.png" xmlns="">0EPK8efbsuk63jnAWYO7zhw</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
