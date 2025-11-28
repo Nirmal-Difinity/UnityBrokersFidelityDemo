@@ -1,0 +1,13 @@
+﻿{
+  "Name": "&Open",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "TuhV20Prq0GcmCa6sZEBiw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/TuhV20Prq0GcmCa6sZEBiw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/ew2pqc02OkSwtntvY63Png",
+  "Created": "2025-11-27T05:30:48.59792Z",
+  "Updated": "2025-11-27T05:30:48.59792Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

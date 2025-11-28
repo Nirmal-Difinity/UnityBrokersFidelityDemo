@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="kmitJCqCgE23182KdW2x8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="zDfbxJinoUW5SBN54SFuWg" Reference="rktTz4rm00OGwYACKxnSiA/xUSYX54h4kurAJ0bF_7rWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="99f18df9-ba0e-4658-95e8-a83110317775" CvElementArea="154, 544, 298, 43" CvType="InputBox" DesignTimeRectangle="155, 546, 298, 40" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-labelledby='select2-ddllicplaceofissue-container' aria-role='combobox' tag='SPAN' /&gt;" Guid="68cb6447-8274-4a24-9f16-b7567a4a299a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="d65e635d-9132-43a6-bb07-dbfeaf16338a" CvElementArea="336, 801, 346, 40" CvType="InputBox" DesignTimeRectangle="336, 808, 347, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='textbox' idx='18' tag='SPAN' /&gt;" Guid="e643a6e0-5b30-453a-a10d-973e01c2b78f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="99f18df9-ba0e-4658-95e8-a83110317775" CvTextArea="154, 525, 159, 14" CvTextArgument="License Place of Issue" CvType="Text" DesignTimeRectangle="155, 523, 158, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrVehLicIssPlace_Lbl' tag='LABEL' type='' class='control-label' aaname='License Place of Issue' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='License Place of Issue' /&gt;" Guid="e06d0d7b-83ca-49d2-abf5-28895e211c74" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="48401065-6708-4fe8-be23-29fbf93ddfe0" CvTextArea="334, 780, 159, 14" CvTextArgument="License Place of Issue" CvType="Text" DesignTimeRectangle="335, 778, 158, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Policy_PolAssrVehLicIssPlace_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='License Place of Issue' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='License Place of Issue' /&gt;" Guid="7ba6aa27-436e-4266-8fc7-78dafe6a7e47" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <TargetAnchorable.PointOffset>
-        <PointOffset />
-      </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="a1342f246ca21a7a7c74cd9fa228673d.png" xmlns="">0ZZ2U_gIQrEyz1N_feNz8Zw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="4f2a021355874cc16bad0443b237076f.png" xmlns="">0Kk_19G-uI0CG7_hmtmOS9Q</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

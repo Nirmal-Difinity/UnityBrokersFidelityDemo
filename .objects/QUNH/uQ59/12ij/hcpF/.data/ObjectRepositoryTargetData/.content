@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="kX8xt16na0yyHZWcD10Kgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="KEmjeQHx50OrqKYuRTNUmg" Reference="rktTz4rm00OGwYACKxnSiA/hcpFYVk8DUuRkvTFmtueGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae" CVScreenId="69c13f4c-60e1-473a-acd5-3f48745600b2" CvElementArea="1398, 139, 115, 43" CvTextArea="1432, 153, 44, 16" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="1401, 141, 108, 39" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Sign In' parentid='navbarNav' tag='A' /&gt;" Guid="20a8ed99-bb09-424f-82ae-42fe005d8bbc" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae" CVScreenId="69c13f4c-60e1-473a-acd5-3f48745600b2" CvElementArea="1398, 139, 115, 43" CvTextArea="1432, 153, 44, 16" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="1401, 141, 108, 39" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Sign In' parentid='navbarNav' tag='A' /&gt;" Guid="20a8ed99-bb09-424f-82ae-42fe005d8bbc" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
       <TargetAnchorable.PointOffset>
         <PointOffset />
       </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="2febdc60bdc36ffe25ed51c560e26057.png" xmlns="">0Qx32g06oWka6KcCHZV4Lqw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="2febdc60bdc36ffe25ed51c560e26057.png" xmlns="">0gcAruA86_06vWpYzExCO-Q</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

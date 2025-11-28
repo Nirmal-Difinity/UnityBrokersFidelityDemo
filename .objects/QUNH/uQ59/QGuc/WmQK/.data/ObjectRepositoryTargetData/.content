@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="f_kOuMPxBUSWGeu4ax4hew" Reference="rktTz4rm00OGwYACKxnSiA/WmQKPRnK6kajvqU0xuTJTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="9cBf2R4-9kOca0jkVWq0xA" Reference="rktTz4rm00OGwYACKxnSiA/WmQKPRnK6kajvqU0xuTJTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="ab59cd2a-60d3-40a5-b497-2867290c5902" CvElementArea="155, 190, 390, 40" CvType="InputBox" DesignTimeRectangle="156, 197, 392, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='textbox' idx='20' tag='SPAN' /&gt;" Guid="b188ebaf-2d1f-4201-ba79-57eeb623204a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="ab59cd2a-60d3-40a5-b497-2867290c5902" CvElementArea="155, 190, 390, 40" CvType="InputBox" DesignTimeRectangle="156, 197, 392, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='textbox' idx='20' tag='SPAN' /&gt;" Guid="b188ebaf-2d1f-4201-ba79-57eeb623204a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target CVScreenId="ab59cd2a-60d3-40a5-b497-2867290c5902" CvTextArea="154, 169, 150, 17" CvTextArgument="Place Of Registration" CvType="Text" DesignTimeRectangle="154, 169, 150, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehRegnLocation_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Place Of Registration' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Place Of Registration' /&gt;" Guid="5488b284-a63a-480e-91fb-627d77ba198a" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="4dc32b65a897a2cd7b65d0cb7d198ed0.png" xmlns="">0665PXBhqbkuFQrd_NNi57Q</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="4dc32b65a897a2cd7b65d0cb7d198ed0.png" xmlns="">0VtEPzI7Vd06Wxna7m-OkuQ</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jBEOCjerMEucBGOeJWzW4Q" Reference="rktTz4rm00OGwYACKxnSiA/q9Up2748okClZn02AvmRDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/RgN2ccs8HrUjYxDnFYcplQ" CVScreenId="ff3a1821-29c9-43f9-932a-e34bfb737e51" CvElementArea="1372, 945, 106, 52" CvTextArea="1406, 960, 35, 13" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="1374, 946, 100, 49" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Next' aria-role='menuitem' tag='A' /&gt;" Guid="97cc20cb-60e8-4f04-9012-688925abfa73" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7aaa67396fb4d7968581f7d94ac5862.png" xmlns="">0VVBuDYFzF0OFovV61jfb-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

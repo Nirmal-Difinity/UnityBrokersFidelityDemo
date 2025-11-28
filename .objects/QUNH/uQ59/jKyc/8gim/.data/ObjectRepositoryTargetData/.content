@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AeDunTZD8UOZezXELVacOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" DesignTimeRectangle="281, -667, 1214, 2267" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='col-lg-9' parentid='frmMotorPolicy' tag='DIV' /&gt;" Guid="1cca9dc1-4b94-416a-89c5-458470432861" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="250ccef4627a655544805c5fbf715ca2.png" xmlns="">08cEcz_g38EmsCmOZc6zpSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="6yHwc_7HskmtB1y6uGeKWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="EdCgs08l-kWLqzRvGpmpeA" Reference="rktTz4rm00OGwYACKxnSiA/IVZ-qFmyj0e1adJbRje0mA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae" CVScreenId="d44fc210-ef48-4152-8b1f-29a0bc6afed4" CvElementArea="591, 515, 369, 33" CvType="InputBox" DesignTimeRectangle="592, 516, 368, 31" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='txtPasswd' tag='INPUT' type='password' class='form-control' placeholder='Password' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5243fca2-544d-4f83-83b5-e16384c74d03" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae" CVScreenId="d44fc210-ef48-4152-8b1f-29a0bc6afed4" CvElementArea="591, 515, 369, 33" CvType="InputBox" DesignTimeRectangle="592, 516, 368, 31" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='txtPasswd' tag='INPUT' type='password' class='form-control' placeholder='Password' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5243fca2-544d-4f83-83b5-e16384c74d03" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target CVScreenId="d44fc210-ef48-4152-8b1f-29a0bc6afed4" CvTextArea="591, 489, 64, 14" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="592, 487, 63, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='UserLoginModel_Password_Lbl' tag='LABEL' type='' class='control-label' aaname='Password' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Password' /&gt;" Guid="e1f89c04-601d-4f82-a927-c9649dadab55" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
       <TargetAnchorable.PointOffset>
         <PointOffset />
       </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="4ff93005b2de572df570efdca4fcb874.png" xmlns="">0kuRVRW-3-UuEGhvTQ40VWQ</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ff93005b2de572df570efdca4fcb874.png" xmlns="">08z1KiL6geEGgeJ4HL2eg7g</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

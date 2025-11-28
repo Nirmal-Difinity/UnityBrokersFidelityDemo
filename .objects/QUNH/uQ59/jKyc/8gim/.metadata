@@ -1,0 +1,13 @@
+﻿{
+  "Name": "current step 1 Basic I…",
+  "Type": "Element",
+  "Id": "8gim4rjv7E-9dAB_8ZBKaA",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/8gim4rjv7E-9dAB_8ZBKaA",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/jKyciv5oTk2QoMficqelnA",
+  "Created": "2025-11-27T12:02:10.2094695Z",
+  "Updated": "2025-11-27T12:02:10.2094695Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

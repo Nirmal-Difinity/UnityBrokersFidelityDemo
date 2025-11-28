@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Next",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "q9Up2748okClZn02AvmRDQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/q9Up2748okClZn02AvmRDQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-11-27T12:49:51.7380691Z",
+  "Updated": "2025-11-27T12:49:51.7380691Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Open app",
+  "Type": "App",
+  "Id": "eruPNArAQUyiCR5sYkSJQg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/eruPNArAQUyiCR5sYkSJQg",
+  "Created": "2025-11-27T05:30:48.3507334Z",
+  "Updated": "2025-11-27T05:30:48.3507334Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chassis Number JN8AY2NY…",
+  "Type": "Element",
+  "Id": "xrXfz_s84E2svB2B8vyFfg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/xrXfz_s84E2svB2B8vyFfg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/jKyciv5oTk2QoMficqelnA",
+  "Created": "2025-11-27T04:53:39.6860231Z",
+  "Updated": "2025-11-27T04:53:39.6860231Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
