@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Submit Quotation",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "63DOHZl4NUC4gBL217W4cw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/63DOHZl4NUC4gBL217W4cw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-11-28T08:23:18.3629607Z",
+  "Updated": "2025-11-28T08:23:18.3629607Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
