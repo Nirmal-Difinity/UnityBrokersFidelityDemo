@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Submission Details",
+  "Type": "Screen",
+  "Id": "5WKQmRo0VEarmExv4c4IQw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/5WKQmRo0VEarmExv4c4IQw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-28T08:48:57.2454699Z",
+  "Updated": "2025-11-28T08:49:43.7370334Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

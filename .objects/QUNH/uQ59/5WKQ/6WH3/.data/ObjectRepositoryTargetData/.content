@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y-w9ANvyv0OVAmfnBiosDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/dslMKKF6PWmEd5sz51Jbyb0Ttczl_nvh5i2gD0K_Tgo/qTXwDuroGEeeioJdPXOAUA" CVScreenId="4dfd7403-447a-429a-9731-05001b0bbd6c" CvElementArea="750, 303, 210, 49" CvTextArea="829, 320, 51, 17" CvTextArgument="B Print" CvType="Button" DesignTimeRectangle="752, 305, 206, 45" DesignTimeScaleFactor="1" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='btnAllPrint' tag='BUTTON' /&gt;" Guid="b206aea5-6926-4c0f-8c42-051b575e71af" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4dfd7403-447a-429a-9731-05001b0bbd6c" CvElementArea="750, 303, 210, 49" CvTextArea="829, 321, 15, 16" CvTextArgument="B" CvType="Button" DesignTimeRectangle="831, 324, 12, 12" FullSelectorArgument="&lt;webctrl parentid='btnAllPrint' tag='I' /&gt;" Guid="89cfd8d2-bdea-47bf-a48f-dc61c5c9a362" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="8a6f774008739b639f4fab54c86ae879.png" xmlns="">0kR7kWTfXy0eIcJD8yjG1DQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
