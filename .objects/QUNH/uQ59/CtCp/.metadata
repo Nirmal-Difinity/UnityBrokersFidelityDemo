@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Quotation",
+  "Type": "Screen",
+  "Id": "CtCpxdXvBEuUVSMi8j0sgg",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/CtCpxdXvBEuUVSMi8j0sgg",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-11-28T08:53:25.9124088Z",
+  "Updated": "2025-11-28T08:56:19.2075312Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Bzuu0biDckuONRjLZf4H0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHbSURBVFhHzZbBbcMwDEVz7DUr5NIBskJWyApZIStkha7gFXruzSt0ha7gfqqywcjf9pfiAvzAAwSaEj8km/JhGIbQ0GAkaDASNBgJGowEDUZiF329vV/BJxgcd3DMKYtipjwvCyYezlTJNzjlVCpmyvOSUHzN3IiZXNxJZsrTLBS9OBNbdHnaTMyUp0koeAS2M8zMEtc8/UnMlKdJKNYVxRV+wOx9ZKY81UIR+zqZAYXZUTNTniqhwAnYTrDiKve8XBIz5akSFu+LYq1MR81MeWRhUaWlWM6tiDH6vCw15ZGEBZWWMhXFWPmI0lEzU55NYSG1pUzHhrHNUd7VMzPl2RQWkXfDCzG7n1muJ90yzNjIqjBZaSmLtwSefRS5jAczNrIoTFRayuo9a89yDpvruTJzxqIwSWkp9PryQo7ygdlG0KOmQrLUUnL6piy3mMvoJINIrGopqmxOsQbjtmoQCS0txRqzfUxbKN0g/VCsGaxqKRifi2d70FODeKBcUVNLwbjln1Dl/mQQgeqWgnHLP2EN6ZYZiykv8OUvO+XbO8Vy9iQdtRWraikY226znP/gYQXZA4//SzFze/0TSkxfS1RoMBI0GAkajAQNRoIGI0GDkaDBSNBgHIbDL0V5opIzUzHZAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" Url="https://insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/dslMKKF6PWmEd5sz51Jbyb0Ttczl_nvh5i2gD0K_Tgo/qTXwDuroGEeeioJdPXOAUA" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="72af75927f985cad603d155a696d2528.jpg" xmlns="">0eNXivnG83U2-oYDebNMNYQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

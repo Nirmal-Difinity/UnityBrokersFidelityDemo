@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Motor Quotation",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "JK7bErcEdUO2ESPJqpeyzQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/JK7bErcEdUO2ESPJqpeyzQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/5WKQmRo0VEarmExv4c4IQw",
+  "Created": "2025-11-28T08:53:05.7941409Z",
+  "Updated": "2025-11-28T08:53:05.7941409Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

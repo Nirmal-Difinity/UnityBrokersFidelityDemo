@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save (Ctrl+S)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "G4oCRMc4qUG6AcKSQ-_j7A",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/G4oCRMc4qUG6AcKSQ-_j7A",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/CtCpxdXvBEuUVSMi8j0sgg",
+  "Created": "2025-11-28T08:56:19.3353657Z",
+  "Updated": "2025-11-28T08:56:19.3353657Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
