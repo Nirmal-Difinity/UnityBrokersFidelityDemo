@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IVSELK6WwEqUw-1X_6HWWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" DesignTimeRectangle="543, 223, 400, 582" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='c-uy0y51jpa4iq' tag='IFRAME' /&gt;&lt;webctrl id='rc-imageselect' tag='DIV' /&gt;" Guid="7f87dea6-88f3-48bd-88d0-1234c1c1b37f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;" SearchSteps="Selector" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="9fa8be2576a72828d193b7abf4b65d3b.png" xmlns="">0o8frg-AfiEiOvxEoYAlJRw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

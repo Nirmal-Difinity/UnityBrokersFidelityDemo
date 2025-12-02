@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="jEMRUzDKxk-uNchxxwyyFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="JNNMTHxytkWwuh2gyUM2cg" Reference="rktTz4rm00OGwYACKxnSiA/aNM1cAB0F0a93Kn47kAVzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" CVScreenId="6ddbeffb-4add-4984-8e46-3eaa79512319" CvTextArea="465, 234, 62, 15" CvTextArgument="ENGLISH" CvType="Text" DesignTimeRectangle="466, 239, 61, 10" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='English' parentid='form1' tag='A' /&gt;" Guid="74b589e4-bed1-48f8-9186-a09d7f2b623b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='وزارة الداخلية - الخدمات الإلكترونية - استعلام الحوادث' /&gt;" SearchSteps="Selector, CV" Version="V6">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" CVScreenId="6ddbeffb-4add-4984-8e46-3eaa79512319" ContentHash="jEMRUzDKxk-uNchxxwyyFQ" CvTextArea="465, 234, 62, 15" CvTextArgument="ENGLISH" CvType="Text" DesignTimeRectangle="466, 239, 61, 10" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='English' parentid='form1' tag='A' /&gt;" Guid="74b589e4-bed1-48f8-9186-a09d7f2b623b" Reference="rktTz4rm00OGwYACKxnSiA/aNM1cAB0F0a93Kn47kAVzQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='وزارة الداخلية - الخدمات الإلكترونية - استعلام الحوادث' /&gt;" SearchSteps="Selector, CV" Version="V6">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target DesignTimeRectangle="471, 138, 281, 76" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='وزارة الداخلية' parentid='form1' tag='IMG' /&gt;" Guid="b510923e-e9cf-451e-b62e-7310fd898602" SearchSteps="Selector" />
         </scg:List>
       </TargetAnchorable.Anchors>
       <TargetAnchorable.PointOffset>
         <PointOffset />
       </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="89dcc592b0a86c9f106c40a3cb71fc69.png" xmlns="">0sr2NTOzq1EucdBO2--alNg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="89dcc592b0a86c9f106c40a3cb71fc69.png" xmlns="">0SW2xZjeAZ0WrNXPPiLLmXA</imageRef>
     </TargetAnchorable>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

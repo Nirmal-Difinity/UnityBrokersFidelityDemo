@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Select all squares with…",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "shpsveIlrUSiEGzmoLLOeQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/shpsveIlrUSiEGzmoLLOeQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/XdfXqI21FUeNvhkzavj__g",
+  "Created": "2025-12-01T10:53:35.2988158Z",
+  "Updated": "2025-12-01T10:53:35.2988158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

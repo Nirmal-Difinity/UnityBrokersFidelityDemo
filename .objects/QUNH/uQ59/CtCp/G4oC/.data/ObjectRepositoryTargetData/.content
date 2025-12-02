@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="RLre7n79EEG8rzfh7i75jQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="rAifSNjTN0uuEA7z1Yffag" Reference="rktTz4rm00OGwYACKxnSiA/G4oCRMc4qUG6AcKSQ-_j7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/REPORT/Document/Dynamic/Generate/FID_MOT_100/Quotation" DesignTimeRectangle="1667, 86, 37, 32" DesignTimeScaleFactor="1" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Quotation' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' /&gt;" Guid="08697a4b-8e25-4404-92b4-e8c2382764ab" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Quotation and 1 more page - Profile 1 - Microsoft​ Edge' /&gt;" SearchSteps="Selector" Version="V6">
-      <TargetAnchorable.PointOffset>
-        <PointOffset />
-      </TargetAnchorable.PointOffset>
-      <imageRef attrName="InformativeScreenshot" originalValue="131dc351aff302483cadaf99c86153da.png" xmlns="">0Mek3JUa-CkSeDNpkAO2AdA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1667, 116, 37, 32" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Quotation' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' /&gt;" Guid="a870038a-2f6a-45f3-afaf-141f498d2c8e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACkAAAAkCAYAAAAU/hMoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVFhH7dYxioNAFIDhPY0gomJvZyEewtLKE3gBQfACHkPE3sKTWGojIli+ZQZcTDKR5/hItnjFRybOOP4oIf5s2wb/HUdS4UgqHEmFI6lwJBWtyLZtIQxDMAzjlOd5kGUZLMui3AdLK9L3fej7Xo5FzPP8fnwcR0jTFJIkgXVdleswtCKPYWeR4lPcxTiOIc/zlzVYtyNd14VhGB7m53kGy7L+vk/TBI7jPKy54nZkVVUyVBw7Ksvy7TlX3Y7E4kiV/YJFUcjxmf2xi/FxjytuRZqm+fKjORJztm3L8dciMRe+svYdjhS+FhlFkfxbxEZ2XSfPUc1jaEXWdQ1BEMgADPEy0jSNci8MrchP40gqHEmFI6lwJBWOpLHBL3oMrXQpLvtxAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Quotation and 1 more page - Work - Microsoft​ Edge' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="86f6a944aa1e12675bd374519f068217.png" xmlns="">0MfA4eD7Fq0-IHNGKlYNq9A</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
