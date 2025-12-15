@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dFDFkGfsU0e9m5VdEfz5Uw" Reference="rktTz4rm00OGwYACKxnSiA/OganvS9NZUWRa40zJaq4WQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" DesignTimeRectangle="870, 238, 386, 114" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;&lt;webctrl name='c-*' tag='IFRAME' /&gt;&lt;webctrl class='rc-imageselect-desc-wrapper' parentid='rc-imageselect' tag='DIV' /&gt;" Guid="18d597ca-bc47-4c9b-9b8e-9b1c849ed365" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eaf4aade72975578fb50b32af7f70dab.png" xmlns="">0E-V3glMwHUeGm-Jbmt1LXg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

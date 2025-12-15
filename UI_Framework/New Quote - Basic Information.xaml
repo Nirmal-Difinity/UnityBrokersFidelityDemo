@@ -112,19 +112,19 @@
       <AssemblyReference>System.IO.FileSystem.DriveInfo</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Sequence1" sap:VirtualizedContainerService.HintSize="1281,1847" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence1" sap:VirtualizedContainerService.HintSize="1759,4443" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Edge: IIRIS ECRM" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="520,1824" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" IsDisplayNameAuto="True" ScopeGuid="6304950a-3afc-4587-a97e-c24a389f244d" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Edge: IIRIS ECRM" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="520,4420" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" IsDisplayNameAuto="True" ScopeGuid="6304950a-3afc-4587-a97e-c24a389f244d" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="518,1630" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="518,4226" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -308,10 +308,10 @@
                 </uix:NClick.Target>
               </uix:NClick>
             </Sequence>
-            <Sequence DisplayName="Fills Vehicle information on the IIRIS ECRM form" sap:VirtualizedContainerService.HintSize="484,61" sap2010:WorkflowViewState.IdRef="Sequence_11">
+            <Sequence DisplayName="Fills Vehicle information on the IIRIS ECRM form" sap:VirtualizedContainerService.HintSize="484,3333" sap2010:WorkflowViewState.IdRef="Sequence_11">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
@@ -335,7 +335,18 @@
                 </uix:NClick.Target>
               </uix:NClick>
               <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="416,127" sap2010:WorkflowViewState.IdRef="Delay_3" />
-              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Date of First Registration'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250" sap2010:WorkflowViewState.IdRef="NTypeInto_6" ScopeIdentifier="6304950a-3afc-4587-a97e-c24a389f244d" Text="[in_TransactionItem.SpecificContent(&quot;Date of First Registration&quot;).ToString]" Version="V5">
+              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Brand New - No'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,198" sap2010:WorkflowViewState.IdRef="NClick_33" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="6304950a-3afc-4587-a97e-c24a389f244d" Version="V5">
+                <uix:NClick.Target>
+                  <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="dcaf3895-949a-4f64-9b00-517ddf16a1c9" ContentHash="1kbcvGZruku66DDrigY5Yw" CvElementArea="900, 412, 77, 44" CvTextArea="921, 425, 32, 16" CvTextArgument="ONo" CvType="Button" DesignTimeRectangle="901, 413, 74, 42" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='No' parentid='divWizard-p-0' tag='LABEL' /&gt;" Guid="f991e101-faef-46ee-ac6b-2850a817005a" InformativeScreenshot="d82b7d8aba55d17f21c34f54dcf20b13.png" Reference="rktTz4rm00OGwYACKxnSiA/Xhw8_ipsQEu6UTk_YggiOA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+                    <uix:TargetAnchorable.Anchors>
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target CVScreenId="dcaf3895-949a-4f64-9b00-517ddf16a1c9" CvTextArea="809, 391, 78, 14" CvTextArgument="Brand New" CvType="Text" DesignTimeRectangle="810, 389, 77, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='Vehicle_VehBrandNewYn_Lbl' tag='LABEL' type='' class='control-label mandatory' aaname='Brand New' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Brand New' /&gt;" Guid="d35912da-2aaf-4ae4-bca3-428b99193a11" SearchSteps="FuzzySelector, CV" />
+                      </scg:List>
+                    </uix:TargetAnchorable.Anchors>
+                  </uix:TargetAnchorable>
+                </uix:NClick.Target>
+              </uix:NClick>
+              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DelayBefore="3" DisplayName="Type Into 'Date of First Registration'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250" sap2010:WorkflowViewState.IdRef="NTypeInto_6" ScopeIdentifier="6304950a-3afc-4587-a97e-c24a389f244d" Text="19/08/2015 " Version="V5">
                 <uix:NTypeInto.Target>
                   <uix:TargetAnchorable BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/1fJxe6hyIsGQoANZE7ZuNb9kkDJ10n5FQbPn1_IygcM/i_MKiPIn0T1AFy_OTpxv5Q" CVScreenId="9526db8d-5f34-4e99-b9ef-dbb2ef1629f7" ContentHash="imF1izTxiEaFOVt6-jHbkQ" CvElementArea="153, 415, 107, 43" CvType="InputBox" DesignTimeRectangle="155, 417, 104, 40" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='VehRegnDt' tag='INPUT' type='text' class='form-control flatpickr-input' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="251fd848-0384-4c6a-a023-5370267e9276" InformativeScreenshot="abb4059bd47310adb32f10991aa64dd4.png" IsResponsive="True" Reference="rktTz4rm00OGwYACKxnSiA/CN5ljC1xTkuA2Gcu578_GA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
                     <uix:TargetAnchorable.Anchors>
@@ -470,7 +481,7 @@
                 </uix:NClick.Target>
               </uix:NClick>
             </Sequence>
-            <Sequence DisplayName="File Upload Sequence" sap:VirtualizedContainerService.HintSize="484,1133" sap2010:WorkflowViewState.IdRef="Sequence_12">
+            <Sequence DisplayName="File Upload Sequence" sap:VirtualizedContainerService.HintSize="484,457" sap2010:WorkflowViewState.IdRef="Sequence_12">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -657,10 +668,10 @@
                   </uix:NClick.Target>
                 </uix:NClick>
               </Sequence>
-              <Sequence DisplayName="Emirates Id Front" sap:VirtualizedContainerService.HintSize="450,737" sap2010:WorkflowViewState.IdRef="Sequence_17">
+              <Sequence DisplayName="Emirates Id Front" sap:VirtualizedContainerService.HintSize="450,61" sap2010:WorkflowViewState.IdRef="Sequence_17">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                     <x:Boolean x:Key="IsPinned">False</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
