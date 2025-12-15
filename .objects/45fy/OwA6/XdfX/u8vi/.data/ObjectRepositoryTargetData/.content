@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="giD1oeBpkUmyxQZMtVaUEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="portal.moi.gov.ae/eservices/PublicServices/AccidentsInquiry.aspx" CVScreenId="8fd1bfa7-c104-42f2-a19f-f02dacd9a71d" CvElementArea="500, 494, 25, 25" CvType="CheckBox" DesignTimeRectangle="504, 500, 28, 28" DesignTimeScaleFactor="1" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='a-sukarzo8kazx' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' tag='DIV' /&gt;" Guid="581c146a-ea34-463a-87bf-10483ef51107" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Ministry of Interior MOI - Accidents Inquiry' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8fd1bfa7-c104-42f2-a19f-f02dacd9a71d" CvTextArea="532, 501, 73, 11" CvTextArgument="Imnot a robot" CvType="Text" DesignTimeRectangle="532, 501, 73, 11" ElementType="Text" Guid="7d54ffe5-c5cc-4aca-848c-2fe7928c93f5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f69f4d74e615aca55599047fc16dc76.png" xmlns="">0pgD-4FQfTkOCfC5o7p_hiA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

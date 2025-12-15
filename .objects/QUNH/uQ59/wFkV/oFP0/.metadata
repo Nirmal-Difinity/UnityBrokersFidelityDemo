@@ -1,0 +1,14 @@
+﻿{
+  "Name": "NET TO PAY",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "oFP001Zgj0qyc2-fVjFFkw",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/oFP001Zgj0qyc2-fVjFFkw",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/wFkVUZtkm02hbA-90itpUQ",
+  "Created": "2025-12-02T11:13:35.2268287Z",
+  "Updated": "2025-12-02T11:13:35.2268287Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

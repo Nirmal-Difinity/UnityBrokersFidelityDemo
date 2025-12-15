@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Save As",
+  "Type": "Screen",
+  "Id": "AZLDGGoprkaDV5jWTCSpdQ",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/AZLDGGoprkaDV5jWTCSpdQ",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/Cwl10cJixkStRvxVsmKBcA",
+  "Created": "2025-12-02T11:24:59.4450161Z",
+  "Updated": "2025-12-02T11:24:59.4450161Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

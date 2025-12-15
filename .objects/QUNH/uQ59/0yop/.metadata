@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Quotation",
+  "Type": "Screen",
+  "Id": "0yopt-hX20eb2a7SmuUG_w",
+  "Reference": "rktTz4rm00OGwYACKxnSiA/0yopt-hX20eb2a7SmuUG_w",
+  "ParentRef": "rktTz4rm00OGwYACKxnSiA/uQ59y_apEk6uKtbBktWQFQ",
+  "Created": "2025-12-02T10:08:48.7640412Z",
+  "Updated": "2025-12-02T10:08:48.7640412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

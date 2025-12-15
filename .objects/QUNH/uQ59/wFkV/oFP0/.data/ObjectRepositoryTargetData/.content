@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zE28CcCHGU-cxGMZHnFv9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="insure.fidelityunited.ae/IIRIS/xZyz2zBVUn7uhNk-AYiIqFRph5y1HGjWvoCVmmdrNO8/uwCUKmcB24dy2yT9lGXcfw/dslMKKF6PWmEd5sz51Jbyb0Ttczl_nvh5i2gD0K_Tgo/wbBCo2CoajWeM-X1vVH65w" CVScreenId="e22e9cd0-6bb1-4839-907b-e2744632961c" CvType="AnyWordGroup" DesignTimeRectangle="1563, 673, 135, 26" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='font-weight-bold' tag='H1' /&gt;" Guid="97320c0a-c648-42be-aa40-fc45d99f74e5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IIRIS ECRM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e22e9cd0-6bb1-4839-907b-e2744632961c" CvTextArea="1571, 645, 117, 18" CvTextArgument="NET TO PAY" CvType="Text" DesignTimeRectangle="1573, 643, 114, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='font-weight-bold' tag='H3' type='' aaname='NET TO PAY' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='NET TO PAY' /&gt;" Guid="d0844cae-305a-4dfb-a2ab-56d677a4641c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="70fd61f273fcec7b6875eeb08478a4bc.png" xmlns="">0oTkMvLOgAUaGkCW6dMylrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
